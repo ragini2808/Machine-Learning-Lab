@@ -1,13 +1,12 @@
-# Machine-Learning-Lab
+
 # Machine Learning Lab
 
 This repository contains my Machine Learning experiments implemented using Python and Jupyter Notebook.
 
 ## Experiments
 
-| Experiment | Topic | Status |
-|------------|-------|--------|
-| Exp 2 | Machine Learning | ✅ Completed |
+| Exp 1 | Basic ML Libraries | ✅ Completed |
+| Exp 2 | Basic Machine Learning Operations | ✅ Completed |
 
 ## Tools Used
 
