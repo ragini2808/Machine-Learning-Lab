@@ -5,6 +5,9 @@ This repository contains my Machine Learning experiments implemented using Pytho
 
 ## Experiments
 
+
+| Experiment | Topic | Status |
+|------------|-----------------------------------|------------|
 | Exp 1 | Basic ML Libraries | ✅ Completed |
 | Exp 2 | Basic Machine Learning Operations | ✅ Completed |
 
@@ -20,4 +23,5 @@ This repository contains my Machine Learning experiments implemented using Pytho
 ## Author
 
 **Ragini Gaikwad**
-B.Tech AIML Student
+
+B.Tech Artificial Intelligence & Machine Learning
